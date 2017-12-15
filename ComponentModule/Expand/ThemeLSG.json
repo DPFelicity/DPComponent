@@ -1,0 +1,35 @@
+{
+    "Color":{
+        "BaseColor":"#3096EA"
+    },
+    "Label": {
+        "baseTitleColor":"#3096EA",
+        "titleColor":"#3096EA",
+        "subtitleColor":"#666666"
+    },
+    "NavigationBar": {
+        "tintColor":"#3096EA",
+        "titleLabelColor":"#FFFFFF"
+    },
+    "TabBar": {
+        "titleLabelColor":"#333333",
+        "titleLabelColorSelected":"#3096EA"
+    },
+    "Button":{
+        "titleColor":"#FFFFFF",
+        "titleColorSelected":"#FFFFFF",
+        "backgroundColor":"#3096EA",
+        "backgroundColorSelected":"#FFFFFF",
+    },
+    "Prod":{
+        "serverApi":"http://temp.api.mypip.cn/router",
+        "appKey":"JC-iOS-Alpha",
+        "appSecret":"MTgxN2EwMmRkNTdjZWE0OTM2MDVlNWE5",
+        "qrcodeDomin":"http://lai.szhedehan.com",
+        "updataPhotoKey":"JC-iOS-Beta"
+    },
+    "Controller":{
+        "recomend":"RecomendTwoViewController",
+    },
+    
+}

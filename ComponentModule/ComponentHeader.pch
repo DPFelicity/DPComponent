@@ -1,0 +1,23 @@
+//
+//  ComponentHeader.pch
+//  ComponentModule
+//
+//  Created by Heaven on 2017/12/1.
+//  Copyright © 2017年 heaven. All rights reserved.
+//
+
+#ifndef ComponentHeader_pch
+#define ComponentHeader_pch
+
+#import "ConfigHeader.h"
+#import "Macro.h"
+
+
+
+#import "ThemeKey.h"
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* ComponentHeader_pch */
